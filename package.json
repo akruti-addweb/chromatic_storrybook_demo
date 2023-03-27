@@ -1,0 +1,10 @@
+{
+  "name": "Demo",
+  "version": "1.0.0",
+  "description": "Demo for chromatic",
+  "main": "index.js",
+  "repository": "https://github.com/akruti-addweb/chromatic_storrybook_demo.git",
+  "author": "akruti-addweb",
+  "license": "MIT",
+  "private": null
+}
